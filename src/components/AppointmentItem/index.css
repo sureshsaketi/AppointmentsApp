@@ -1,0 +1,26 @@
+li {
+  border: 1px solid #b5b7c4;
+  padding: 15px;
+  border-radius: 15px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.title-star-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  color: #171f46;
+  font-family: 'roboto';
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.star-button {
+  background-color: transparent;
+  border: none;
+}
+.date {
+  font-weight: 400;
+}
